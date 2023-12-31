@@ -4,7 +4,7 @@ Peihao Wang, Dejia Xu, Zhiwen Fan, Dilin Wang, Sreyas Mohan, Forrest Iandola, Ra
 
 [[Project Page]](https://vita-group.github.io/3D-Mode-Collapse/) | [[Paper]](/)
 
-![](figures/teaser.gif)
+![](teaser.gif)
 
 ## Abstract
 
