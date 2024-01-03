@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/3D-Mode-Collapse/static/css/main.932b68ed.css",
-    "main.js": "/3D-Mode-Collapse/static/js/main.a145d758.js",
+    "main.js": "/3D-Mode-Collapse/static/js/main.b0830915.js",
     "static/js/883.bee58fe2.chunk.js": "/3D-Mode-Collapse/static/js/883.bee58fe2.chunk.js",
     "static/media/trimmed.mp4": "/3D-Mode-Collapse/static/media/trimmed.f1a2a06580a4f5118c0a.mp4",
     "static/media/teaser.png": "/3D-Mode-Collapse/static/media/teaser.1160551ad1f3c4c82c97.png",
@@ -87,11 +87,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/3D-Mode-Collapse/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/3D-Mode-Collapse/index.html",
     "main.932b68ed.css.map": "/3D-Mode-Collapse/static/css/main.932b68ed.css.map",
-    "main.a145d758.js.map": "/3D-Mode-Collapse/static/js/main.a145d758.js.map",
+    "main.b0830915.js.map": "/3D-Mode-Collapse/static/js/main.b0830915.js.map",
     "883.bee58fe2.chunk.js.map": "/3D-Mode-Collapse/static/js/883.bee58fe2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.932b68ed.css",
-    "static/js/main.a145d758.js"
+    "static/js/main.b0830915.js"
   ]
 }
