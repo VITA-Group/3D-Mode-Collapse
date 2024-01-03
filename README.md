@@ -2,7 +2,7 @@
 
 Peihao Wang, Dejia Xu, Zhiwen Fan, Dilin Wang, Sreyas Mohan, Forrest Iandola, Rakesh Ranjan, Yilei Li, Qiang Liu, Zhangyang Wang, Vikas Chandra
 
-[[Project Page]](https://vita-group.github.io/3D-Mode-Collapse/) | [[Paper]](/)
+[[Project Page]](https://vita-group.github.io/3D-Mode-Collapse/) | [[Paper]](https://arxiv.org/abs/2401.00909)
 
 ![](teaser.gif)
 
@@ -23,7 +23,7 @@ system.prompt_processor.prompt=<your_prompt> system.guidance.guidance_scale_lora
 
 *Note:* The value of this hyperparameter may vary in different scenarios.
 
-Check our [paper](/) for theoretical arguments on this surprising finding.
+Check our [paper](https://arxiv.org/abs/2401.00909) for theoretical arguments on this surprising finding.
 
 ## More Implementation Options
 
@@ -34,9 +34,10 @@ Coming soon ...
 If you find this work or our work helpful for your own research, please cite our paper.
 
 ```
-@inproceedings{wang2023taming,
-title={Taming Mode Collapse in Score Distillation for Text-to-3D Generation},
-author={Wang, Peihao and Xu, Dejia and Fan, Zhiwen and Wang, Dilin and Mohan, Sreyas and Iandola, Forrest and Ranjan, Rakesh and Li, Yilei and Liu, Qiang and Wang, Zhangyang and Chandra, Vikas},
-year={2023}
-}
+@article{wang2023esd,
+  title={Taming Mode Collapse in Score Distillation for Text-to-3D Generation},
+  author={Wang, Peihao and Xu, Dejia and Fan, Zhiwen and Wang, Dilin and Mohan, Sreyas and Iandola, Forrest and Ranjan, Rakesh and Li, Yilei and Liu, Qiang and Wang, Zhangyang and Chandra, Vikas},
+  journal={arXiv preprint: 2401.00909},
+  year={2023}
+}}
 ```
