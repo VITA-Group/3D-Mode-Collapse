@@ -25,9 +25,26 @@ system.prompt_processor.prompt=<your_prompt> system.guidance.guidance_scale_lora
 
 Check our [paper](https://arxiv.org/abs/2401.00909) for theoretical arguments on this surprising finding.
 
-## More Implementation Options
+## Gaussian Example
 
-Coming soon ...
+To demonstrate the principle of our algorithm, we provide an example script in `gaussian_example.py` to visualize the training trajectory of matching two Gaussian distribution using various score distillation schemes.
+
+![](materials/trajectory_sds.gif)
+![](materials/trajectory_vsd.gif)
+![](materials/trajectory_esd.gif)
+
+To reproduce these results, you may try the following commands:
+
+```
+# SDS
+python gaussian_example.py --method sds --save_video
+# VSD
+python gaussian_example.py --method vsd --save_video
+# ESD (Ours)
+python gaussian_example.py --method esd --lambda_coeff 1.0 --save_video
+```
+
+It is also recommended to play with `--lambda_coeff` to see how this hyperparameter affect the matching results.
 
 ## Citation
 
