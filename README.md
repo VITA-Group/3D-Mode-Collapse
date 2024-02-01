@@ -29,9 +29,9 @@ Check our [paper](https://arxiv.org/abs/2401.00909) for theoretical arguments on
 
 To demonstrate the principle of our algorithm, we provide an example script in `gaussian_example.py` to visualize the training trajectory of matching two Gaussian distribution using various score distillation schemes.
 
-![](materials/trajectory_sds.gif)
-![](materials/trajectory_vsd.gif)
-![](materials/trajectory_esd.gif)
+<img src="materials/trajectory_sds.gif" alt="SDS" width="33%"/>
+<img src="materials/trajectory_vsd.gif" alt="VSD" width="33%"/>
+<img src="materials/trajectory_esd.gif" alt="ESD" width="33%"/>
 
 To reproduce these results, you may try the following commands:
 
